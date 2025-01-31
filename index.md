@@ -4,3 +4,5 @@
 
 And step 9 was not clear either.
 I don't see where to put a commit message, folks.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
